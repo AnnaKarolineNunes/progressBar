@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto simples cuja finalizade é praticar a elaboraçao de progress bar horizontal e circular no aplicativo android.
+Projeto simples cuja finalidade é praticar a elaboraçao de progress bar horizontal e circular no aplicativo android.
 
 ## Recursos
 
